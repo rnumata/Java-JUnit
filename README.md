@@ -4,7 +4,7 @@ aplication for unit testing
 
 ### __Description__
 
-It is a code developed attending the Unit Testing at [Universidade Positivo](https://www.up.edu.br/institucional) </br>
+It is a code developed attending the Unit Testing discipline at [Universidade Positivo](https://www.up.edu.br/institucional) </br>
 A unit test is a piece of code written by a developer that executes a specific functionality in the code to be tested and asserts a certain behavior or state. </br>
 
 ### __Technologies Used__
